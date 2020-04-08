@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name" translatable="false">Organize</string>
+
+    <string name="titDashboard">DASHBOARD</string>
+    <string name="titConfig">CONFIGURAÇÕES</string>
+    <string name="titLogin">LOGIN</string>
+    <string name="titCadastro">CADASTRO</string>
+
+    <string name="txtIdioma">Idioma</string>
+
+    <string name="txtPeriodo">Período</string>
+    <string name="txtReceber">Contas a Receber</string>
+    <string name="txtPagar">Contas a Pagar</string>
+    <string name="txtPago">Contas Pagas</string>
+    <string name="txtVencida">Contas Vencidas</string>
+
+    <string name="txtTotReceber">R$ 0,00</string>
+    <string name="txtTotPagar">R$ 0,00</string>
+    <string name="txtTotPago">R$ 0,00</string>
+    <string name="txtTotVencida">R$ 0,00</string>
+
+    <string name="txtFechar">Fechar</string>
+    <string name="txtMail">e-mail</string>
+    <string name="txtSenha">Senha</string>
+    <string name="txtNome">Nome</string>
+    <string name="txtEntrar">Entrar</string>
+    <string name="txtSalvar">Salvar</string>
+
+    <string name="txtNaoCad">Não está Cadastrado?</string>
+    <string name="txtNovoCad">Novo Cadastro</string>
+    <string name="txtEsqueceuSenha">Esqueceu sua Senha?</string>
+    <string name="txtRecuperarSenha">Recuperar Senha</string>
+
+    <string name="hintMail">digite seu e-mail</string>
+    <string name="hintSenha">digite sua senha</string>
+    <string name="hintNome">digite seu nome</string>
+</resources>
